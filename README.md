@@ -182,4 +182,4 @@ struct symtab {
 
 const int numberOfOpcodes = 25;
 unsigned int startaddr, locctr;
-int symcount = 0, length, errorFlag = 0, numberOfErrors = 0, errors[500];
+int symcount = 0, length, errorFlag = 0, numberOfErrors = 0, errors[500]; //
